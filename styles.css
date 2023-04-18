@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.rupee:before {
+    content: "\20B9";
+ }
+ table{
+    width: 200px;
+    text-align: center;
+ }
